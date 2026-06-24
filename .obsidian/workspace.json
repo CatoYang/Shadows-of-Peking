@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad670ff5b2f4506a",
+        "id": "7ae35a1be968dba5",
         "type": "tabs",
         "children": [
           {
-            "id": "c08d3f541b224e49",
+            "id": "1c619103e67c8c72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Historical Factions/The_Kansu_Braves.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The_Kansu_Braves"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 352.5
   },
   "right": {
     "id": "491cd967bee85909",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Historical Factions/The_Kansu_Braves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The_Kansu_Braves"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,24 +151,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Historical Factions/The_Kansu_Braves.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The_Kansu_Braves"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "916a0c58e710566d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,8 +188,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "c08d3f541b224e49",
+  "active": "1c619103e67c8c72",
   "lastOpenFiles": [
+    "Untitled.base",
+    "01_Timeline/1860-10-18_Burning_of_the_Old_Summer_Palace.md",
+    "01_Timeline/1860-10-24_Convention_of_Beijing.md",
+    "01_Timeline/1858-06-00_Treaties_of_Tientsin.md",
+    "01_Timeline/1856-10-08_The_Arrow_Incident_Begins_2nd_Opium_War.md",
+    "generate_opium_treaties.py",
+    "01_Timeline/1870-06-21_The_Tianjin_Massacre_Precursor.md",
+    "01_Timeline/1894-08-01_First_Sino_Japanese_War.md",
+    "01_Timeline/1894-11-24_The_Revive_China_Society.md",
+    "01_Timeline/1895-04-17_The_Treaty_of_Shimonoseki.md",
+    "01_Timeline/1842-08-29_The_Unequal_Treaties_System.md",
+    "01_Timeline/1850-12-00_The_Taiping_Rebellion.md",
+    "01_Timeline/1861-11-00_The_Xinyou_Coup.md",
+    "04_Characters/Character building note.md",
+    "01_Timeline/1875-01-13_Succession_Crisis.md",
+    "generate_cixi_rise.py",
+    "generate_summer_palace.py",
+    "01_Timeline/1890-00-00_The_Er_Maozi_Social_Friction.md",
+    "01_Timeline/1750-00-00_The_Literary_Inquisitions.md",
+    "01_Timeline/1645-07-21_The_Queue_Order.md",
+    "01_Timeline/1645-05-20_The_Yangzhou_Massacre.md",
+    "01_Timeline/1618-00-00_The_Seven_Grievances.md",
+    "02_Historical Factions/The_Kansu_Braves.md",
+    "generate_han_manchu_friction.py",
     "New folder",
     "02_Historical Factions/The_Empire_of_Japan.md",
     "02_Historical Factions/The_Eight_Nation_Alliance.md",
@@ -192,27 +221,8 @@
     "01_Timeline/1898-09-15_The_Blood_Edict.md",
     "01_Timeline/1898-09-14_Arrival_of_Ito_Hirobumi.md",
     "01_Timeline/1898-09-05_Reformers_Appointed_to_Grand_Council.md",
-    "01_Timeline/1898-08-30_Abolition_of_Sinecures.md",
-    "01_Timeline/1898-06-15_Appointment_of_Ronglu_as_Viceroy.md",
-    "01_Timeline/1898-09-22_Escape_of_Kang_and_Liang.md",
-    "01_Timeline/1898-09-18_Tan_Sitong_Visits_Yuan_Shikai.md",
-    "01_Timeline/1900-08-04_Gaselee_Expedition_and_Relief.md",
-    "01_Timeline/1900-07-28_Execution_of_the_Five_Ministers.md",
-    "01_Timeline/1900-07-13_Battle_of_Tianjin.md",
-    "01_Timeline/1900-07-09_The_Taiyuan_Massacre.md",
-    "01_Timeline/1900-07-03_Night_Sorties_on_the_Tartar_Wall.md",
-    "01_Timeline/1900-07-02_The_Kaisers_Hun_Speech.md",
-    "01_Timeline/1900-07-00_Subterranean_Mine_Warfare_at_Beitang.md",
-    "01_Timeline/1900-06-26_Southeast_Mutual_Protection_Pact.md",
-    "01_Timeline/1900-06-22_Burning_of_the_Hanlin_Academy.md",
-    "01_Timeline/1900-06-20_Siege_of_the_Legations.md",
-    "01_Timeline/1900-06-18_The_Battle_of_Langfang.md",
-    "01_Timeline/1900-06-00_Desecration_of_Chala_Cemetery.md",
     "generate_missing_events.py",
-    "01_Timeline/1900-08-14_The_Watergate_Breakthrough.md",
     "generate_hanlin_watergate.py",
-    "01_Timeline/1899-01-00_Rise_of_the_Boxers.md",
-    "01_Timeline/1899-10-18_The_Pingyuan_Incident.md",
     "generate_edicts_chronological.py",
     "generate_statistics.py"
   ]
